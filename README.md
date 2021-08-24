@@ -17,12 +17,6 @@
 
 ##
 
- <div>
-  <a href="https://github.com/hilarison">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hilarison&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilarison&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
  ### MIDIAS
  ##
   
@@ -33,5 +27,13 @@
     <a href="https://wa.me/qr/2WJ56LULIGRYF1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     <a href="https://web.facebook.com/profile.php?id=100005716337630" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     </div>
+ 
+ ##
+ 
+ <div>
+  <a href="https://github.com/hilarison">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hilarison&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilarison&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
   
